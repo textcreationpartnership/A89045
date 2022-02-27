@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memoriall to preserve vnspotted to posterity the name and memory of Doctor Crispe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89045</idno>
+            <idno type="STC">Wing M1696</idno>
+            <idno type="STC">Thomason 669.f.6[120]</idno>
+            <idno type="STC">ESTC R212626</idno>
+            <idno type="EEBO-CITATION">99871229</idno>
+            <idno type="PROQUEST">99871229</idno>
+            <idno type="VID">160980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[120])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memoriall to preserve vnspotted to posterity the name and memory of Doctor Crispe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for John Sweating,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "You that know what truth is, and doe now feare,".</note>
+                  <note>Annotation on Thomason copy: "March. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Tobias, 1600-1643 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:160980:1" rendition="simple:additions"/>
+            <head>A MEMORIALL TO PRESERVE Vnſpotted to Poſterity the Name and Memory of Doctor CRISPE.</head>
+            <lg>
+               <l>YOu that know what truth is, and doe now feare,</l>
+               <l>You ſhall no more her pleaſing doctrines heare,</l>
+               <l>Since Doctor <hi>Criſpe</hi> is dead, unleſſe it be</l>
+               <l>From unglos'd Scripture, truth's pure treaſury.</l>
+               <l>You that were lately preſt with ſinne, and found</l>
+               <l>A hell in your owne hearts, you that were bound</l>
+               <l>In errors, fetters, and could never ſee,</l>
+               <l>Though you were Chriſtians cal'd, your liberty</l>
+               <l>Wherein Chriſt made you free, till this man drew</l>
+               <l>Your vaile of darkeneſſe off, and form'd you new.</l>
+               <l>You all know how to priſe his worth, and can</l>
+               <l>Beare witneſſe with me that he was a man</l>
+               <l>That beſt deſerv'd the Pulpit, that his breſt</l>
+               <l>Was full of what he ſpake, and did digeſt</l>
+               <l>His Doctrines firſt in his owne heart, his braine</l>
+               <l>Labour'd with no devices or forced ſtraine</l>
+               <l>To pleaſe the eaſie people, or beget</l>
+               <l>An audience baſely by delighting it.</l>
+               <l>He ſcorn'd that truth ſhould ſtoope, or be made ſtale</l>
+               <l>To vitious ends, he hated more to vaile</l>
+               <l>Her glorious luſtre, or eclipſe her light</l>
+               <l>By mingling falſe lights with her, 'cauſe mens ſight</l>
+               <l>Is weake and dazled at her brightneſſe; no</l>
+               <l>He might mens common errors foſter ſo.</l>
+               <l>Such as doe uſe ſuch arts doe rather aime</l>
+               <l>T'advance themſelves then truth, to get a name,</l>
+               <l>And ſo a living: But this Doctor ſtrove</l>
+               <l>Rather to draw men up to truth and love.</l>
+               <l>To allure them with her ſweetnes, for no by-</l>
+               <l>Reſpect, but their owne Soules felicity.</l>
+               <l>He knew the power of truth, and therefore us'd</l>
+               <l>No artificiall baits, but rather chus'd</l>
+               <l>Inſtead of words, and the deceitfull dreſſe</l>
+               <l>Of popular Eloquence, her owne nakedneſſe.</l>
+               <l>'Twas from his Soule he ſpake, and not becauſe</l>
+               <l>He might obtaine a Legacy, or applauſe,</l>
+               <l>Not to enhaunce his tithes or quarter-gifts,</l>
+               <l>Nor that he might ſeeme learned: ſuch vile ſhifts</l>
+               <l>And mercenary arts he did deſpiſe</l>
+               <l>(Though much in faſhion now) as a fit guiſe</l>
+               <l>For holy ſeeming Hypocrits, who have made</l>
+               <l>Religion not their practiſe, but their trade.</l>
+               <l>Truth was his end, and each mans good his aime,</l>
+               <l>Mens perſons he reſpected not, but came</l>
+               <l>Freely t'impart glad tidings unto all,</l>
+               <l>The love of God he knew was generall.</l>
+               <l>The man in Pluſh and braver was no more</l>
+               <l>In his eſteeme then whom the world cals poore;</l>
+               <l>He look't upon mens Soules, for their array,</l>
+               <l>'Tis no part of the man whether't be gay</l>
+               <l>Or for neceſſity, vertue may lie</l>
+               <l>And oftner under rags then Taffety.</l>
+            </lg>
+            <lg>
+               <l>He was compo'd of love, meeke as a Lambe,</l>
+               <l>Without all affectation ſtill the ſame.</l>
+               <l>Mild in diſcourſe, impaſſionate, and free</l>
+               <l>From wild contentions of Philoſophy,</l>
+               <l>And other nice diſputes; 'bout what is vaine,</l>
+               <l>He troubled not his owne or others braine.</l>
+               <l>He knew the Apoſtles no ſuch cuſtomes us'd,</l>
+               <l>And therefore onely uſefull Subjects chus'd;</l>
+               <l>Such as had greateſt vigour to remove</l>
+               <l>Long ſetled errors, and beget true love,</l>
+               <l>To God and man: All his abilities,</l>
+               <l>His Labour, ſtudy, health, and faculties,</l>
+               <l>He did imploy to doe his brethren good,</l>
+               <l>'Twas chiefe of his delight, his Soules beſt food</l>
+               <l>To make men reall Chriſtians not in name,</l>
+               <l>But in beliefe and practiſe, to the ſhame</l>
+               <l>Of what moſt men that beare that title are.</l>
+               <l>His Doctrines (though ſince ſcandal'd) were ſo farre</l>
+               <l>From giving raines to vice, or Liberty</l>
+               <l>To a looſe life and all obſcenity,</l>
+               <l>As ſome that feare their trade will downe, object,</l>
+               <l>Whoſe teaching on their profits ſtill reflect:</l>
+               <l>That there's no precepts, no inſtructions can</l>
+               <l>Beget a godly life, and make a man</l>
+               <l>An honour to that faith he doth profeſſe,</l>
+               <l>To abandon luſt and all ungodlineſſe,</l>
+               <l>But thoſe firme truthes he preacht; for what can more</l>
+               <l>Perſwade with men to live well and give o're</l>
+               <l>What ever misbeſeemes them or beget</l>
+               <l>Our Saviours owne minde in them, then to ſet</l>
+               <l>Before their eyes what he for them hath done,</l>
+               <l>His boundleſſe love and his Compaſſion;</l>
+               <l>How he did pay their deſperate debts and free</l>
+               <l>Their Soules from Deaths, hells, conſcience, Tyranny;</l>
+               <l>How he did dye that death they ſhould have dyed,</l>
+               <l>Cleared the law, Gods juſtice ſatisfied,</l>
+               <l>Aton'd us with his Father, all our feares</l>
+               <l>Diſpeld, adopted us his Sonnes, Coheires</l>
+               <l>With Chriſt himſelfe, caſt all our proud foes downe,</l>
+               <l>Purchas'd a Kingdome for us, and a Crowne;</l>
+               <l>And all this too not when we were his friends,</l>
+               <l>Obedient to his ſacred lawes, and ends;</l>
+               <l>But when wee were his foes, ye when we lay</l>
+               <l>Weltring in blood and ſinne, and did betray</l>
+               <l>Our onely friend, when we did cruciſie</l>
+               <l>Our Maſter, and more wicked yet deny</l>
+               <l>The Lord that bought us, that his grace might be</l>
+               <l>Above our wonder, and our eyes might ſee</l>
+               <l>That he was goodneſſe ſelfe, and that his love</l>
+               <l>To man, was all his other workes, above,</l>
+               <l>Even in this ſtate he dyed for us, and paid</l>
+               <l>His precious bloud our ranſome, then he laid</l>
+               <l>His life downe for us and his dignity,</l>
+               <l>That we might live to all eternity.</l>
+               <l>This having done, and knowing 'twas above</l>
+               <l>Vs men to comprehend this devine love,</l>
+               <l>(Nought being within our reach but what doth lye</l>
+               <l>In reaſons circumſcrib'd capacity)</l>
+               <l>Gods love extended further, knowing well</l>
+               <l>Without the knowledge of his love, a Hell</l>
+               <l>Would ſtill poſſeſſeus, and a thouſand feares</l>
+               <l>Diſtract our mindes, and drowne us in ſad teares,</l>
+               <l>Our ſinnes being ever preſent 'fore our eyes,</l>
+               <l>Our ſad Soules frighted at our conſcience cryes,</l>
+               <l>That we might not be left thus comfortleſſe,</l>
+               <l>And ignorant of all our happineſſe.</l>
+               <l>He ſent his bleſſed Spirit to declare</l>
+               <l>Peace to our Soules, and what our comforts are.</l>
+               <l>Which the ſame Spirit hath done, to thoſe were ſent</l>
+               <l>To tell the ſame to all, to the intent</l>
+               <l>All teares might be wip't off from our ſad eyes,</l>
+               <l>And wee left feareleſſe of hells miſeries.</l>
+            </lg>
+            <lg>
+               <l>Theſe were his Doctrines, thus he preacht, the ſame</l>
+               <l>Glad tidings from Gods bleſſed Spirit came.</l>
+               <l>That Chriſt hath purchaſd our Redemption</l>
+               <l>Without our aid, without condition,</l>
+               <l>That'tis already done, and freely too,</l>
+               <l>Wants no addition from what we can doe.</l>
+               <l>Therefore let's pleaſe our luſts: Perverſe man, no,</l>
+               <l>He nor the Scripture did not conclude ſo.</l>
+               <l>What waſt conſtrain'd th'Apoſtles to deny</l>
+               <l>All worldly luſts and to live ſoberly,</l>
+               <l>To abound in all good works? What waſt ſay you?</l>
+               <l>The love of God conſtrain'd him ſo to doe.</l>
+               <l>Why ſhould the ſame love then by us be thought</l>
+               <l>The ready way to make us vile and nought?</l>
+               <l>The holy Scriptures motive for to tie</l>
+               <l>Our Soules and bodies, God to glorifie,</l>
+               <l>Is becauſe he hath bought us with a price,</l>
+               <l>And for us paid himſelf a Sacrifice.</l>
+               <l>The greateſt bond on earth is love, if ſo</l>
+               <l>What greater love then this did man ere know?</l>
+               <l>Looke on his Auditors, ſee their lives, and ſay</l>
+               <l>Who have more vertue or more love then they.</l>
+            </lg>
+            <lg>
+               <l>This was his way to allure mens Soules with ſight</l>
+               <l>Of the moſt glorious comfortable light</l>
+               <l>Of Gods eternall truth, and not to aw</l>
+               <l>Their ſadned Soules, with terrors of the law,</l>
+               <l>Or keepe 'em downe that ſo he might ſubject</l>
+               <l>Their purſes and obedience, and erect</l>
+               <l>Their ſpirits as their contributions roſe,</l>
+               <l>He loath'd ſuch Tyrannous practiſes, and choſe</l>
+               <l>To make men wiſe and good for their owne ſake,</l>
+               <l>Strict againſt Vice, chiefly againſt ſuch as make</l>
+               <l>Their liberty a cloake to wickedneſſe,</l>
+               <l>And turne the grace of God to wantonneſſe;</l>
+               <l>Gainſt ſuch as theſe, the ſhame of men, he would</l>
+               <l>Expreſſe an anger great as good men ſhould,</l>
+               <l>They were the chiefeſt foes Religion had,</l>
+               <l>No enemies ſo great as they, ſo bad,</l>
+               <l>Although he knew none of them but by fame</l>
+               <l>Of their ill life, and rumours of their ſhame.</l>
+               <l>For ſuch howe're that thus abuſe the free</l>
+               <l>Goodneſſe of God he knew this remedy.</l>
+            </lg>
+            <lg>
+               <l>See what good Counſell firſt will doe, and when</l>
+               <l>They'le not returne, publikely ſhame'em, then</l>
+               <l>If they ſhall ſtill perſiſt, let juſtice draw</l>
+               <l>Forth her correcting rod to overaw</l>
+               <l>Their ſtubborne hearts with feare of puniſhment;</l>
+               <l>If then they ſhall conſider and relent</l>
+               <l>With armes of love embrace them, let them ſee</l>
+               <l>The difference twixt good life and vanity.</l>
+               <l>If when all this is done they ſhall remaine</l>
+               <l>Vitious men ſtill, or ſhall returne againe</l>
+               <l>To their looſe life and manners, let them be</l>
+               <l>Excluded quite from all ſociety.</l>
+               <l>Thus diſcipline ſhould meet with vice, and free</l>
+               <l>The Church from ſlander, vice, and Calumnie.</l>
+            </lg>
+            <lg>
+               <l>After this briefe expreſſe of what is true</l>
+               <l>Of my dead Friend, and ſhort of what's his due,</l>
+               <l>Let no mans forward malice ſtrive to caſt</l>
+               <l>Dirt on his fame, or with falſe rumours blaſt</l>
+               <l>His honeſt life or Doctrines, becauſe they</l>
+               <l>Perceive ſome of their audience drop away;</l>
+               <l>If they ſhall yet perſiſt and vainely ſhew</l>
+               <l>They feare truth will yet thrive, let ſuch men know</l>
+               <l>I doe denounce 'em mine and plaine truths foes:</l>
+               <l>He that can bite in verſe, can ſting in proſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for John Sweeting. 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
